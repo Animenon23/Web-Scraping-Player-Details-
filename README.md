@@ -1,0 +1,5 @@
+# Web-Scraping-Player-Details-
+Automated Scouting Report : Web Scraped Data from transfermarkt.com and collected data on soccer players around the world.
+
+Football is a highly competitive sport, and the transfer market is an integral part of it. The process of acquiring players has become increasingly complex, and teams are now more focused on scouting and monitoring players' values and contract details from an early stage to gain a competitive edge. Our consultancy service aims to provide football clubs with the necessary resources to make informed decisions on player acquisitions.
+We offer football clubs data on players and their corresponding transfer values from various leagues worldwide. We understand that keeping track of clubs and their respective players' contract details, market valuation, and other information can be time-consuming and resource intensive. Therefore, we provide real-time data on these players and their appropriate values, freeing up valuable resources for football teams.
